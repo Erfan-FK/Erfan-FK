@@ -1,6 +1,15 @@
 ### Hi there 👋
-Erfan here, a passionate programmer and developer.
-:e-mail:
+Erfan here, a young passionate programmer and developer.
+I'm a freshman in the Bilkent University where my major is Computer Science.
+
+:computer:I have learnt Python, JavaScript, HTML and CSS during past years.
+
+🌱 I’m currently learning JAVA programming language.
+
+📫 How to reach me: 
+   :e-mail:erfanfarhangkia@gmail.com
+   
+   
 <!--
 **Erfan-FK/Erfan-FK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
