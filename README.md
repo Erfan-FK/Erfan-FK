@@ -2,9 +2,7 @@
 Erfan here, a young passionate programmer and developer.
 I'm a freshman in the Bilkent University where my major is Computer Science.
 
-:computer:I have learnt Python, JavaScript, HTML and CSS during past years.
-
-🌱 I’m currently learning JAVA programming language.
+:computer:I have experience in several programming languages such as java.
 
 📫 How to reach me: 
    :e-mail:erfanfarhangkia@gmail.com
