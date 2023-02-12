@@ -1,6 +1,5 @@
 ### Hi there 👋
-Erfan here, a young passionate programmer and developer.
-I'm a freshman in the Bilkent University where my major is Computer Science.
+Erfan here, A freshman at Bilkent University, majoring in Computer Science.
 
 💻 + ☕ = ♾️.
 
