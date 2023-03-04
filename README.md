@@ -1,7 +1,7 @@
 ### Hi there 👋
 Erfan here, A freshman at Bilkent University, majoring in Computer Science.
 
-💻 + ☕ = ♾️.
+💻 + ☕ + 🎵 = ♾️.
 
 📫 How to reach me: 
    :e-mail:erfanfarhangkia@gmail.com
