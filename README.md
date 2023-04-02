@@ -1,10 +1,13 @@
-### Hi there 👋
-Erfan here, A freshman at Bilkent University, majoring in Computer Science.
+# 💫 About Me:
+Hi there 👋<br><br>Erfan here, <br>Currently, a freshman at Bilkent University, majoring in Computer Science.<br><br>Briefly: 💻 + ☕ + 🎵 = ♾️.<br><br>📧erfanfarhangkia@gmail.com
 
-💻 + ☕ + 🎵 = ♾️.
 
-📫 How to reach me: 
-   :e-mail:erfanfarhangkia@gmail.com
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erfanfkia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erfan-farhang-kia-2316b7248) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
    
    
 <!--
