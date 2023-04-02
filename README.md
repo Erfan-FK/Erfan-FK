@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi there 👋<br><br>Erfan here <br>Currently, a freshman at Bilkent University, majoring in Computer Science.<br><br>Briefly: 💻 + ☕ + 🎵 = ♾️.<br><br>📧erfanfarhangkia@gmail.com
 
 
