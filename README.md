@@ -1,7 +1,8 @@
 # About Me:
-Hi there, <br><br>Erfan here, <br>A junior at Bilkent University, majoring in Computer Science.<br><br>📧erfanfarhangkia@gmail.com
+<h1 align="center">Hi 👋, I'm Erfan</h1>
+<h3 align="center">A junior CS student at Bilkent University.</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erfan-farhangkia-2316b7248) 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/erfan-farhangkia-2316b7248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/erfan-farhangkia-2316b7248/" height="30" width="40" /></a>
+</p>
