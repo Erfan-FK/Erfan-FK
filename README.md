@@ -1,8 +1,9 @@
-# About Me:
-<h1 align="center">Hi 👋, I'm Erfan</h1>
-<h3 align="center">A junior CS student at Bilkent University.</h3>
+# About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/erfan-farhangkia-2316b7248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erfan-farhangkia-2316b7248/" height="30" width="40" /></a>
-</p>
+<div align="center">
+
+<h1>Erfan FarhangKia</h1>
+
+<h3>I build things.</h3>
+
+</div>
